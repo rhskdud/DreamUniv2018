@@ -595,6 +595,17 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 48,
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "score=10\n",
+    "\n",
+    "\n"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
